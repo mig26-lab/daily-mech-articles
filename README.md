@@ -6,6 +6,11 @@ Articles are written approximately every 3 hours based on the latest releases an
 
 ## Current Batch (November 15, 2026)
 
+### Morning Cycle (November 15)
+- [Anthropic IPO Roadshow: $1.4 Trillion Valuation Target Tests AI Market Appetite](articles/2026-11-15/anthropic-ipo-roadshow-valuation-update.md)
+- [LingBot-Touch: Open-Source Tactile Foundation Model Gives Robots a Shared Sense of Touch](articles/2026-11-15/lingbot-touch-tactile-foundation-model.md)
+- [Claude Meetings Beta: Anthropic Brings Claude as a Live Participant into Google Meet](articles/2026-11-15/claude-meetings-beta-google-meet.md)
+
 ### Afternoon Cycle
 - [GXO Logistics Signs Letter of Intent for Up to 1,000 Apptronik Apollo Humanoid Robots](articles/2026-11-15/gxo-apptronik-1000-apollo-loi.md)
 - [Swiss Startup Embodied AI Unveils AIR: A Wheeled Humanoid Designed to Learn Factory Tasks Beside Workers](articles/2026-11-15/embodied-ai-air-wheeled-humanoid.md)
