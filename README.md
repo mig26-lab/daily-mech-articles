@@ -11,6 +11,11 @@ Articles are written approximately every 3 hours based on the latest releases an
 - [Gecko Robotics Unveils Raptor: Next-Generation Inspection Robot Speeds Critical Infrastructure Monitoring](articles/2026-11-15/gecko-raptor-industrial-inspection.md)
 - [Humanoid Robots Advance from Controlled Trials to Live Retail and Factory Floors](articles/2026-11-15/humanoid-robots-store-factory-deployments.md)
 
+### Early Morning Cycle (November 15)
+- [Zipline Raises $1.5 Billion to Scale Nationwide Drone Delivery Network](articles/2026-11-15/zipline-1-5b-drone-delivery-expansion.md)
+- [AWS Makes Next-Generation AgentCore Runtime the Default for Faster, More Efficient AI Agents](articles/2026-11-15/aws-agentcore-runtime-v2.md)
+- [Google Releases Gemini 4 Hydrogen: Fast Model for Everyday Agentic Workflows](articles/2026-11-15/gemini-4-hydrogen-agentic-model.md)
+
 ## Previous Batch (November 14, 2026)
 
 ### Morning / Afternoon
