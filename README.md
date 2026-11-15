@@ -6,6 +6,11 @@ Articles are written approximately every 3 hours based on the latest releases an
 
 ## Current Batch (November 15, 2026)
 
+### Late Morning Cycle (November 15)
+- [Serve Robotics Opens Autonomous Delivery Network to Developers and Businesses via Public API](articles/2026-11-15/serve-robotics-av-delivery-developer-portal.md)
+- [Avride Reaches One Million Autonomous Robot Deliveries Across the United States](articles/2026-11-15/avride-one-million-robot-deliveries.md)
+- [Microchip Launches ATFCD52 High-Speed Capacitance Digitizer for Robotic Tactile Sensing](articles/2026-11-15/microchip-atfcd52-tactile-digitizer.md)
+
 ### Morning Cycle (November 15)
 - [Anthropic IPO Roadshow: $1.4 Trillion Valuation Target Tests AI Market Appetite](articles/2026-11-15/anthropic-ipo-roadshow-valuation-update.md)
 - [LingBot-Touch: Open-Source Tactile Foundation Model Gives Robots a Shared Sense of Touch](articles/2026-11-15/lingbot-touch-tactile-foundation-model.md)
