@@ -6,6 +6,11 @@ Articles are written approximately every 3 hours based on the latest releases an
 
 ## Current Batch (November 15, 2026)
 
+### Afternoon Cycle
+- [GXO Logistics Signs Letter of Intent for Up to 1,000 Apptronik Apollo Humanoid Robots](articles/2026-11-15/gxo-apptronik-1000-apollo-loi.md)
+- [Swiss Startup Embodied AI Unveils AIR: A Wheeled Humanoid Designed to Learn Factory Tasks Beside Workers](articles/2026-11-15/embodied-ai-air-wheeled-humanoid.md)
+- [OpenAI Launches Daybreak Red Team and Defense Factory: AI Agents for Continuous Web App Testing and Automated Patching](articles/2026-11-15/openai-daybreak-red-team-defense-factory.md)
+
 ### Overnight / Early Cycle
 - [Anthropic Prepares Historic IPO as Claude Fable 5.2 and Mythos 5.2 Push the Frontier](articles/2026-11-15/anthropic-ipo-claude-models.md)
 - [Gecko Robotics Unveils Raptor: Next-Generation Inspection Robot Speeds Critical Infrastructure Monitoring](articles/2026-11-15/gecko-raptor-industrial-inspection.md)
