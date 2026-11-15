@@ -19,6 +19,11 @@ Articles are written approximately every 3 hours based on the latest releases an
 - [OpenAI Disbands Standalone Robotics Team](articles/2026-11-14/openai-robotics-team-reorganization.md)
 - [AMD Expands Instinct MI400 Series with MI450X](articles/2026-11-14/amd-instinct-mi450x-mi455x.md)
 
+### Late Evening / Next Cycle
+- [llama.cpp Hits Version 1.0.0](articles/2026-11-14/llama-cpp-1.0.0.md)
+- [Tristar AI Raises $12.4 Million Series A](articles/2026-11-14/tristar-ai-funding.md)
+- [Swiss Robotics Day Highlights Shift Toward Dexterity](articles/2026-11-14/swiss-robotics-day-dexterity.md)
+
 ## About
 
 These articles synthesize publicly available information from official announcements, reputable news outlets, and company blogs. Always check primary sources for the most current details.
