@@ -6,6 +6,11 @@ Articles are written approximately every 3 hours based on the latest releases an
 
 ## Current Batch (November 15, 2026)
 
+### Midday Cycle (November 15)
+- [BYD and MOGOX Unveil 8.5-Metre Level 4 Autonomous Electric Bus for International Markets](articles/2026-11-15/byd-mogox-b90-level4-autonomous-bus.md)
+- [Claude Opus 5.5 Generates Robot Control Programs Achieving 92.1% Success in Physical Trials Without Live AI](articles/2026-11-15/claude-opus-55-robot-code-92-percent-success.md)
+- [Eureka Robotics Launches StereoPick: No-Code Software for 3D Bin-Picking from CAD in Six Steps](articles/2026-11-15/eureka-stereopick-no-code-3d-bin-picking.md)
+
 ### Late Morning Cycle (November 15)
 - [Serve Robotics Opens Autonomous Delivery Network to Developers and Businesses via Public API](articles/2026-11-15/serve-robotics-av-delivery-developer-portal.md)
 - [Avride Reaches One Million Autonomous Robot Deliveries Across the United States](articles/2026-11-15/avride-one-million-robot-deliveries.md)
