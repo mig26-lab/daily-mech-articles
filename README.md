@@ -24,6 +24,11 @@ Articles are written approximately every 3 hours based on the latest releases an
 - [Tristar AI Raises $12.4 Million Series A](articles/2026-11-14/tristar-ai-funding.md)
 - [Swiss Robotics Day Highlights Shift Toward Dexterity](articles/2026-11-14/swiss-robotics-day-dexterity.md)
 
+### Additional Late Batch (November 14 evening)
+- [DeepSeek Opens Full App Capabilities via API](articles/2026-11-14/deepseek-api-search-file-voice.md)
+- [Swiss Robotics Day 2026 Shifts Focus to Dexterity and Tactile Sensing](articles/2026-11-14/swiss-robotics-day-dexterity-advances.md)
+- [Tesla Continues Early Production of Optimus at Fremont](articles/2026-11-14/tesla-optimus-fremont-production-update.md)
+
 ## About
 
 These articles synthesize publicly available information from official announcements, reputable news outlets, and company blogs. Always check primary sources for the most current details.
