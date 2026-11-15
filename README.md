@@ -4,7 +4,14 @@ Repository for daily articles on the latest developments in AI, technology, and 
 
 Articles are written approximately every 3 hours based on the latest releases and news, with images from Pixabay and full source lists.
 
-## Current Batch (November 14, 2026)
+## Current Batch (November 15, 2026)
+
+### Overnight / Early Cycle
+- [Anthropic Prepares Historic IPO as Claude Fable 5.2 and Mythos 5.2 Push the Frontier](articles/2026-11-15/anthropic-ipo-claude-models.md)
+- [Gecko Robotics Unveils Raptor: Next-Generation Inspection Robot Speeds Critical Infrastructure Monitoring](articles/2026-11-15/gecko-raptor-industrial-inspection.md)
+- [Humanoid Robots Advance from Controlled Trials to Live Retail and Factory Floors](articles/2026-11-15/humanoid-robots-store-factory-deployments.md)
+
+## Previous Batch (November 14, 2026)
 
 ### Morning / Afternoon
 - [Gemini Robotics 2.5: DeepMind Accelerates Physical Intelligence](articles/2026-11-14/gemini-robotics-2.5.md)
