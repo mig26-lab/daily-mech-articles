@@ -6,6 +6,11 @@ Articles are written approximately every 3 hours based on the latest releases an
 
 ## Current Batch (November 15, 2026)
 
+### Late Evening Cycle (November 15)
+- [AI Infrastructure Debt Hits $687 Billion as Hyperscalers Race to Build Capacity](articles/2026-11-15/ai-infrastructure-debt-687b.md)
+- [DeepMind’s Gemini Robotics 2.5 Delivers 96% Success on Live Mercedes-Benz Production Lines](articles/2026-11-15/gemini-robotics-25-mercedes-pilot.md)
+- [OpenAI Reorganizes Robotics Efforts as GPT-6 Astra Demonstrates Direct Robot Control](articles/2026-11-15/openai-robotics-generalist-pivot.md)
+
 ### Evening Cycle (November 15)
 - [Anthropic IPO Order Book Six Times Oversubscribed Amid CEO’s Compute Uncertainty Warnings](articles/2026-11-15/anthropic-ipo-6x-oversubscribed.md)
 - [South Korea Invests $330 Million to Localize Humanoid Robot Core Components, Targets 80% by 2030](articles/2026-11-15/south-korea-humanoid-components-investment.md)
