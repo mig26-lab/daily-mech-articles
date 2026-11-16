@@ -4,7 +4,14 @@ Repository for daily articles on the latest developments in AI, technology, and 
 
 Articles are written approximately every 3 hours based on the latest releases and news, with images from Pixabay and full source lists.
 
-## Current Batch (November 15, 2026)
+## Current Batch (November 16, 2026)
+
+### Late Night / Early Cycle (November 16)
+- [Alibaba Launches Qwen4-Max with 25% Price Cut and Claims of 62% Lower Agent Task Costs](articles/2026-11-16/qwen4-max-price-cut-agent-efficiency.md)
+- [Pony.ai and Toyota Launch Fully Driverless Gen-7 bZ4X Robotaxi Service in Guangzhou](articles/2026-11-16/pony-ai-toyota-bz4x-guangzhou-robotaxi.md)
+- [Leju Robotics’ Foshan Plant Targets 10,000 Humanoid Robots a Year as CNN Gains Rare Access](articles/2026-11-16/leju-robotics-foshan-10000-humanoid-factory.md)
+
+## Previous Batch (November 15, 2026)
 
 ### Late Evening Cycle (November 15)
 - [AI Infrastructure Debt Hits $687 Billion as Hyperscalers Race to Build Capacity](articles/2026-11-15/ai-infrastructure-debt-687b.md)
